@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on applications with Gen AI implementation
 - 💬 Ask me about Azure cloud solutions. I expertise in Azure platform solutions
 - 📫 How to reach me: https://flowcv.me/avishekchakraborty
-
+Thanks for visiting
 <!--
 **Avi0008/Avi0008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
