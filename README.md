@@ -1,6 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on creating Intelligent Solutions with Gen AI<br>- 🌱 I’m currently learning Python and Gen AI modules<br>- 👯 I’m looking to collaborate on applications with Gen AI implementation<br>- 💬 Ask me about Azure cloud solutions. I expertise in Azure platform solutions<br>- 📫 How to reach me: https://flowcv.me/avishekchakraborty
-
+- 🔭 I’m currently working on creating Intelligent Solutions with Gen AI<br>- 🌱 I’m currently learning Python and Gen AI modules<br>- 👯 I’m looking to collaborate on applications with Gen AI implementation<br>- 💬 Ask me about Azure cloud solutions. I expertise in Azure platform solutions<br>- 📫 How to reach me: https://avishek.online/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avishek240795) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AvishekC0008) 
